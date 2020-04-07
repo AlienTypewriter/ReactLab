@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "CopyRight Automatico",
+      "category": "JS",
+      "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi gravida nisl nec aliquet iaculis. Morbi pellentesque suscipit nunc mollis hendrerit. Maecenas consectetur erat eget augue molestie, eu malesuada felis iaculis. Vestibulum feugiat nunc vel vulputate vulputate. Proin feugiat et risus nec vehicula.",
+      "createDate": "4/5/2020"
+    },
+    {
+      "id": 2,
+      "name": "HtmlWebpackPlugin Multiples HTML files",
+      "category": "webpack",
+      "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi gravida nisl nec aliquet iaculis. Morbi pellentesque suscipit nunc mollis hendrerit. Maecenas consectetur erat eget augue molestie, eu malesuada felis iaculis. Vestibulum feugiat nunc vel vulputate vulputate. Proin feugiat et risus nec vehicula.",
+      "createDate": "4/6/2020"
+    }
+  ]
+}
